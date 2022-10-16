@@ -19,7 +19,7 @@
         document.addEventListener("DOMContentLoaded", function() {
             window.fbAsyncInit = function () {
                 FB.init({
-                    appId: '793231035126163',
+                    appId: '',
                     autoLogAppEvents: true,
                     xfbml: true,
                     version: 'v15.0'
